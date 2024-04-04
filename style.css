@@ -28,10 +28,10 @@ width: 25%;
 
 .escola{
 background-image:linear-gradient(blueviolet, pink);
-color: whitesmoke;
+color: white;
 display: flex;
  
-.texto-escola{font-size: 20px;}
+.texto-escola {font-size: 20px;}
 
 }
 
