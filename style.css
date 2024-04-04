@@ -30,7 +30,7 @@ width: 25%;
 background-image:linear-gradient(blueviolet, pink);
 color: white;
 display: flex;
- 
+ justify-content: ;
 .texto-escola {font-size: 20px;}
 
 .escola-conteudo{
