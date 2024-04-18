@@ -31,12 +31,24 @@ background-image:linear-gradient(blueviolet, pink);
 color: white;
 display: flex;
  justify-content: center;
-.texto-escola {font-size: 20px;}
+
+ .texto-escola{font-size: 20px;}
 
 .escola-conteudo{
 
-    width: 40%
+    width: 40%;
+    align-items: center;
+    padding: 24px 0;
+}
+ .titulo-escola{
+    padding: 20px;
+ }
 
+}
+.imagem-escola{margin: 40px;}
+.estudante{
+    background-image:linear-gradient(rgb(105,6, 64), rgb(64,6,40);
+    color:white
 }
    
 
