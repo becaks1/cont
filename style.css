@@ -47,13 +47,18 @@ display: flex;
 }
 .imagem-escola{margin: 40px;}
 .estudante{
-    background-image:linear-gradient(rgb(105,6, 64), rgb(64,6,40);
+    background-image:linear-gradient(rgb(105,6, 64), rgb(64,6,40));
     color:white;
 }
    
+.estudante-imagem{
 
-
-  
-
+   width: 120px;
 }
+
+.estudante-icone{
+    width: 20px;
+}
+
+
 
